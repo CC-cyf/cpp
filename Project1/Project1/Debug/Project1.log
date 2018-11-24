@@ -1,0 +1,4 @@
+﻿  源.cpp
+e:\visual studio\cpp\project1\project1\源.cpp(2): warning C4005: “RAND_MAX”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(344): note: 参见“RAND_MAX”的前一个定义
+  Project1.vcxproj -> E:\Visual Studio\cpp\Project1\Debug\Project1.exe
