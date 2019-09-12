@@ -1,0 +1,20 @@
+﻿  main.cpp
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(74): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(75): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(81): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(86): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(91): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(124): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(125): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(129): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(130): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(134): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(135): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(140): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(141): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(148): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(153): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(158): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(117): warning C4101: “y”: 未引用的局部变量
+e:\visual studio\cpp\project_clock\project_clock\clocks.h(117): warning C4101: “x”: 未引用的局部变量
+  PROJECT_CLOCK.vcxproj -> E:\Visual Studio\cpp\PROJECT_CLOCK\Debug\PROJECT_CLOCK.exe

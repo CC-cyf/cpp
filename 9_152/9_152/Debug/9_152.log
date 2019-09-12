@@ -1,0 +1,3 @@
+﻿  9_152.cpp
+e:\visual studio\cpp\9_152\9_152\9_152.cpp(19): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  9_152.vcxproj -> E:\Visual Studio\cpp\9_152\Debug\9_152.exe

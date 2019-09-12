@@ -1,0 +1,5 @@
+﻿  9_156.cpp
+e:\visual studio\cpp\9_156\9_156\9_156.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio\cpp\9_156\9_156\9_156.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio\cpp\9_156\9_156\9_156.cpp(81): warning C4018: “<”: 有符号/无符号不匹配
+  9_156.vcxproj -> E:\Visual Studio\cpp\9_156\Debug\9_156.exe
